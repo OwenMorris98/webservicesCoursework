@@ -1,0 +1,39 @@
+
+
+{
+  "birds": 
+  [
+           {
+              "name":"pigeon",
+              "color":"white",
+			  "price":"50"
+			  
+			  
+           },
+           {
+              "name":"chicken",
+              "color":"brown",
+			  "price":"20"
+           },
+		   {
+			  "name":"parrot",
+			  "color":"green",
+			  "price":"80"
+			},
+			
+			{
+			  "name":"crow",
+			  "color":"black",
+			  "price":"30"
+			  },
+		
+ ],
+		//"books":[
+		//	{
+		//	"name":"php web services",
+		//	"author":"Ghani",
+		//	"price":20
+		//	}
+		//	]
+ 
+}

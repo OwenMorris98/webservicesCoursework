@@ -1,0 +1,16 @@
+
+
+{ 
+	"fruit":[
+		{ "name":"stawberries", "price":"$10" },
+        { "name":"rasberries", "price":"$20" },
+        { "name":"blueberries", "price":"$30" },
+		{ "name":"kiwifruit",  "price":"$40"},
+		{ "name":"passionfruit",  "price":"$50"},
+		{ "name":"watermelon", "price":"$20" },
+		{ "name":"rockmelon", "price":"$20" },
+		{ "name":"honeydew", "price":"$20" }
+		]
+		}
+		
+ 

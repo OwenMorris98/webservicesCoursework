@@ -1,0 +1,17 @@
+
+
+{
+  "birds": 
+  [
+           {
+              "name":"pigeon",
+              "color":"white",
+			  "price":"50"
+           },
+           {
+              "name":"chicken",
+              "color":"brown",
+			  "price":"50"
+           }
+ ]
+}
